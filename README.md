@@ -9,5 +9,3 @@ Designed using Python using TurtleGraphics
   - The scorecard is maintained for both the players and the score is displayed on the graphic screen.
   - If the paddle doesn't hit the ball, the game restarts with new scorecard.
 
-**Sample image of the game**
-![Uploading Screenshot (834).png…]()
